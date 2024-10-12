@@ -1,0 +1,33 @@
+body {
+    background-color: whitesmoke;
+    font-family:sans-serif
+}
+
+/* titoli */
+
+h1, h2, hr {
+    color: #3b6588;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ /* tabelle */
+
+th, td {
+    width: 150px;
+    text-align: start;
+}
+
+span {
+    color: red;
+    font-weight: bold;
+}
+
+small {
+    font-size: 20px;
+    color: green;
+    font-weight: bold;
+}
+
+ul li {
+    list-style: none;
+}
